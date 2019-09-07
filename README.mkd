@@ -38,3 +38,6 @@ You can see thumbor in action at http://thumborize.me/
 
 
 Join the chat at https://gitter.im/thumbor/thumbor
+
+Reminder: start thumbor locally;
+thumbor -c /Users/kviwoto/Documents/Projects/perso/thumbor-forked/thumbor/thumbor/thumbor.conf  -l DEBUG
